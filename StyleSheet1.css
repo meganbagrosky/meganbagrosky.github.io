@@ -1,0 +1,42 @@
+﻿h1
+{
+    font-size: 150%;
+    color: cornsilk;
+    text-align: center;
+    background-color: crimson;
+}
+body
+{
+    background-color: cornsilk;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li a {
+    background-color: crimson;
+    margin: 25px;
+    padding: 20px;
+    display: block;
+    border-radius: 20px;
+    text-decoration: none;
+    text-align: center;
+    float: right;
+}
+img {
+    border-radius: 5px 5px 5px 5px;
+    width: 15%;
+    height: 15%;
+    background-color: black;
+    float: left;
+}
+card {
+    background-color: grey;
+    height: 500px;
+    width: 25vw;
+    float: left;
+    margin: 25px;
+    padding: 20px;
+}
